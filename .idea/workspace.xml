@@ -2,8 +2,220 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82dfb966-1a87-425e-a128-d405c81defe0" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/froala_editor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/froala_editor.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/froala_editor.pkgd.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/froala_editor.pkgd.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/froala_style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/froala_style.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/char_counter.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/char_counter.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/code_view.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/code_view.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/colors.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/colors.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/draggable.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/draggable.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/emoticons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/emoticons.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/file.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/file.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/fullscreen.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/fullscreen.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/image.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/image.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/image_manager.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/image_manager.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/line_breaker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/line_breaker.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/quick_insert.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/quick_insert.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/table.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/table.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/video.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/plugins/video.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/themes/dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/themes/dark.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/themes/gray.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/themes/gray.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/themes/red.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/themes/red.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/themes/royal.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/css/themes/royal.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/froala_editor.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/froala_editor.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/bs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/en_ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/en_gb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/et.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/fa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/hr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/me.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/nb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/pt_br.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/pt_pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/sr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/ua.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/zh_cn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/languages/zh_tw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/align.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/char_counter.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/code_beautifier.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/code_view.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/colors.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/draggable.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/emoticons.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/entities.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/file.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/font_family.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/font_size.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/forms.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/fullscreen.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/image.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/image_manager.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/inline_style.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/line_breaker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/link.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/lists.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/paragraph_format.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/paragraph_style.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/quick_insert.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/quote.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/save.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/table.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/url.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/static/js/plugins/video.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/demo/application/AppErrorController.class" afterPath="$PROJECT_DIR$/target/classes/com/demo/application/AppErrorController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/demo/application/TestController.class" afterPath="$PROJECT_DIR$/target/classes/com/demo/application/TestController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/demo/application/AppErrorController.java" afterPath="$PROJECT_DIR$/src/main/java/com/demo/application/AppErrorController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/demo/application/TestController.java" afterPath="$PROJECT_DIR$/src/main/java/com/demo/application/TestController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/application.properties" afterPath="$PROJECT_DIR$/target/classes/application.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/froala_editor.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/froala_editor.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/froala_editor.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/froala_editor.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/froala_editor.pkgd.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/froala_editor.pkgd.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/froala_editor.pkgd.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/froala_editor.pkgd.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/froala_style.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/froala_style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/froala_style.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/froala_style.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/char_counter.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/char_counter.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/char_counter.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/char_counter.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/code_view.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/code_view.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/code_view.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/code_view.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/colors.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/colors.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/colors.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/colors.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/draggable.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/draggable.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/draggable.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/draggable.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/emoticons.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/emoticons.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/emoticons.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/emoticons.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/file.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/file.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/file.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/file.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/fullscreen.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/fullscreen.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/fullscreen.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/fullscreen.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/image.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/image.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/image.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/image.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/image_manager.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/image_manager.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/image_manager.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/image_manager.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/line_breaker.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/line_breaker.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/line_breaker.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/line_breaker.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/quick_insert.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/quick_insert.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/quick_insert.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/quick_insert.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/table.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/table.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/table.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/table.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/video.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/video.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/plugins/video.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/plugins/video.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/themes/dark.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/themes/dark.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/themes/dark.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/themes/dark.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/themes/gray.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/themes/gray.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/themes/gray.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/themes/gray.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/themes/red.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/themes/red.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/themes/red.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/themes/red.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/themes/royal.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/themes/royal.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/css/themes/royal.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/themes/royal.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/froala_editor.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/froala_editor.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/froala_editor.pkgd.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/froala_editor.pkgd.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/ar.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/ar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/bs.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/bs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/cs.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/cs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/da.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/da.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/de.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/de.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/en_ca.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/en_ca.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/en_gb.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/en_gb.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/es.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/es.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/et.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/et.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/fa.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/fa.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/fi.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/fi.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/fr.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/fr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/he.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/he.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/hr.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/hr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/hu.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/hu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/id.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/id.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/it.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/it.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/ja.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/ja.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/ko.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/ko.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/me.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/me.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/nb.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/nb.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/nl.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/nl.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/pl.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/pl.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/pt_br.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/pt_br.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/pt_pt.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/pt_pt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/ro.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/ro.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/ru.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/ru.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/sr.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/sr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/sv.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/sv.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/th.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/th.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/tr.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/tr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/ua.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/ua.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/zh_cn.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/zh_cn.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/languages/zh_tw.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/languages/zh_tw.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/align.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/align.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/char_counter.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/char_counter.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/code_beautifier.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/code_beautifier.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/code_view.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/code_view.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/colors.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/colors.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/draggable.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/draggable.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/emoticons.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/emoticons.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/entities.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/entities.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/file.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/file.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/font_family.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/font_family.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/font_size.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/font_size.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/forms.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/forms.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/fullscreen.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/fullscreen.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/image.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/image.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/image_manager.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/image_manager.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/inline_style.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/inline_style.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/line_breaker.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/line_breaker.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/link.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/link.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/lists.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/lists.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/paragraph_format.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/paragraph_format.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/paragraph_style.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/paragraph_style.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/quick_insert.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/quick_insert.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/quote.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/quote.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/save.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/save.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/table.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/table.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/url.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/url.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/video.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/plugins/video.min.js" />
     </list>
     <ignored path="com.spring.boot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,7 +242,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1800">
+            <state relative-caret-position="1125">
               <caret line="72" column="49" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
               <folding />
             </state>
@@ -40,8 +252,8 @@
       <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/application/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-471">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="28" column="14" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,21 +261,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/application/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+            <state relative-caret-position="293">
+              <caret line="87" column="19" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/static/index.html">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/pages/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+            <state relative-caret-position="70">
+              <caret line="114" column="29" selection-start-line="114" selection-start-column="29" selection-end-line="114" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -79,11 +291,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="11" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -92,8 +304,8 @@
       <file leaf-file-name="AppErrorController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/application/AppErrorController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="60" column="59" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="62" />
+            <state relative-caret-position="-1946">
+              <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -149,10 +361,11 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/web/TestController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/application/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/application/AppErrorController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/static/index.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/application/TestController.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/pages/index.html" />
       </list>
     </option>
   </component>
@@ -340,6 +553,96 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.spring.boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.spring.boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.spring.boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.spring.boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.spring.boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.spring.boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -401,8 +704,9 @@
       <recent name="com.demo.application" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\dubbo\com.spring.boot\src\main\resources\templates" />
+      <recent name="E:\dubbo\com.spring.boot\src\main\resources\templates\pages" />
       <recent name="E:\dubbo\com.spring.boot\src\main\resources\static" />
+      <recent name="E:\dubbo\com.spring.boot\src\main\resources\templates" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Application">
@@ -872,12 +1176,12 @@
       <workItem from="1466559919613" duration="2283000" />
       <workItem from="1466570271181" duration="624000" />
       <workItem from="1466575187112" duration="9832000" />
-      <workItem from="1466645649388" duration="11968000" />
+      <workItem from="1466645649388" duration="14236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59465000" />
+    <option name="totallyTimeSpent" value="61733000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -889,7 +1193,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -900,14 +1204,15 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14592275" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3217993" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3217993" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849163" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34256056" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34256056" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25751072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -918,7 +1223,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -936,14 +1240,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3250">
-          <caret line="130" column="32" selection-start-line="130" selection-start-column="32" selection-end-line="130" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/languages/bs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1181,13 +1477,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/themes/red.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/plugins/url.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1266,6 +1555,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/web/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/url.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/static/css/themes/red.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/greeting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="72" column="49" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/application/AppErrorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1946">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/application/Response.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -1281,76 +1634,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="72" column="49" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/web/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/application/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-471">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/pages/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/application/AppErrorController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="60" column="59" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/static/js/plugins/url.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/greeting.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/static/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/application/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+        <state relative-caret-position="70">
+          <caret line="114" column="29" selection-start-line="114" selection-start-column="29" selection-end-line="114" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -1358,7 +1655,15 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="11" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/application/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="87" column="19" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="19" />
           <folding />
         </state>
       </provider>

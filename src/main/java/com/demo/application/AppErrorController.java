@@ -21,6 +21,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 /**
  * Created by Ivan on 2016/6/21.
+ * 当请求出错时走这个页面
  */
 @Controller
 public class AppErrorController implements ErrorController{

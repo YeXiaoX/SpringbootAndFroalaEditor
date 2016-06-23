@@ -1,4 +1,5 @@
-com\demo\com\demo\error\AppErrorController.class
+com\demo\application\TestController.class
 com\demo\application\Application.class
+com\demo\application\AppErrorController.class
 com\demo\application\Response.class
 com\demo\com\ali\oss\util\OssFactory.class

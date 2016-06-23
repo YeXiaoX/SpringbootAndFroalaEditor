@@ -27,7 +27,7 @@ import java.util.Map;
 public class TestController {
     @RequestMapping(value="/", produces = "text/html")
     public ModelAndView index(){
-        ModelAndView model = new ModelAndView("/static/index");
+        ModelAndView model = new ModelAndView("/pages/index");
         return model;
     }
     @RequestMapping("/hello")
