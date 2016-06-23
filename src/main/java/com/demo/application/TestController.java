@@ -21,6 +21,7 @@ import java.util.Map;
 
 /**
  * Created by Ivan on 2016/6/23.
+ * controller需要和application.java在一个包内，这样才能找到controller类
  */
 @RestController
 public class TestController {
