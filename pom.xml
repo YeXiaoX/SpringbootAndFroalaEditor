@@ -70,6 +70,7 @@
             </plugin>
 
         </plugins>
+        <!--<defaultGoal>compile</defaultGoal>-->
     </build>
     <repositories>
         <repository>

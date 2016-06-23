@@ -6,6 +6,13 @@ package com.demo.application;
 public class Response {
     private int code;
     private String msg;
+    private Object data;
+
+    public Response(int code, String msg, Object object) {
+        this.code = code;
+        this.msg = msg;
+        this.data = object;
+    }
 
     public String getMsg() {
         return msg;
@@ -23,8 +30,12 @@ public class Response {
         this.code = code;
     }
 
-    public Response(int code, String msg) {
-        this.code = code;
-        this.msg = msg;
+
+    public Object getData() {
+        return data;
+    }
+
+    public void setData(Object data) {
+        this.data = data;
     }
 }
