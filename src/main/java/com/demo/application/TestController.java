@@ -6,10 +6,7 @@ import com.aliyun.oss.model.ObjectMetadata;
 import com.demo.com.ali.oss.util.OssFactory;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.ResponseBody;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.multipart.MultipartHttpServletRequest;
 import org.springframework.web.servlet.ModelAndView;
@@ -33,6 +30,12 @@ public class TestController {
     @RequestMapping("/hello")
     String home() {
         return "Hello World!";
+    }
+
+    @RequestMapping("/getName/{name}")
+    public String getName(@PathVariable String name){
+        System.out.println("name:"+name);
+        return name;
     }
 
     @RequestMapping(value = "/save", method = RequestMethod.POST)
