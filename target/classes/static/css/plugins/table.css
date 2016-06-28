@@ -81,6 +81,7 @@
   display: inline-block;
   width: 18px;
   height: 18px;
+ /* border: 1px solid #AF2525;*/
   border: 1px solid #dddddd;
 }
 .fr-popup .fr-table-size .fr-select-table-size > span:hover,
