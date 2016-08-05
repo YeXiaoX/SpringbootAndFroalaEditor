@@ -4,6 +4,8 @@ package com.demo.application;
 import com.aliyun.oss.OSSClient;
 import com.aliyun.oss.model.ObjectMetadata;
 import com.demo.com.ali.oss.util.OssFactory;
+import com.demo.test.TestProperties;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
@@ -22,6 +24,8 @@ import java.util.Map;
  */
 @RestController
 public class TestController {
+    @Autowired
+    TestProperties testProperties;
     @RequestMapping(value="/", produces = "text/html")
     public ModelAndView index(){
         ModelAndView model = new ModelAndView("/pages/index");
@@ -36,6 +40,13 @@ public class TestController {
     public String getName(@PathVariable String name){
         System.out.println("name:"+name);
         return name;
+    }
+
+    @RequestMapping("/test")
+    public @ResponseBody String test(){
+        System.out.println(testProperties.getGender()+"---"+testProperties.getName());
+        //System.out.println(wisely2Settings.getGender()+"==="+wisely2Settings.getGender());
+        return "ok";
     }
 
     @RequestMapping(value = "/save", method = RequestMethod.POST)
