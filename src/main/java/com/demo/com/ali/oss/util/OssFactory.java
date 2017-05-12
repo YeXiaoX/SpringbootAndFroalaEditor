@@ -8,12 +8,12 @@ import com.aliyun.oss.OSSClient;
 public class OssFactory {
     final static String  endpoint = "oss-cn-shanghai.aliyuncs.com";
     // accessKey请登录https://ak-console.aliyun.com/#/查看
-    final static String accessKeyId = "q7vHi6atC8cA6wns";
-    final static String accessKeySecret = "uWp9X9tPN4fgFNdBybLB4JTDWpSofm";
+    final static String accessKeyId = "";
+    final static String accessKeySecret = "";
 //
 //    final static String  endpoint = "oss-cn-qingdao.aliyuncs.com";
-//    final static String accessKeyId = "zTT0TobirfTd4noZ";
-//    final static String accessKeySecret = "SPnXY8RYxNI9MvxyyF24cn4qjIqqd3";
+//    final static String accessKeyId = "";
+//    final static String accessKeySecret = "";
     // 创建OSSClient实例
     final static OSSClient client = new OSSClient(endpoint, accessKeyId, accessKeySecret);
 // 使用访问OSS
